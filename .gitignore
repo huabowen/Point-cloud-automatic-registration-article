@@ -1,0 +1,9 @@
+##ignore this file##
+
+
+/x64/
+*.vcxproj
+*.filters
+*.user 
+*.png
+*.cam
